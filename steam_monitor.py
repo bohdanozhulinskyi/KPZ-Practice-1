@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Author: Michal Szymanski <misiektoja-github@rm-rf.ninja>
 v1.3.1
@@ -16,9 +15,6 @@ python-dotenv (optional)
 
 VERSION = "1.3.1"
 
-# ---------------------------
-# CONFIGURATION SECTION START
-# ---------------------------
 
 CONFIG_BLOCK = """
 # Get your Steam Web API key from:
