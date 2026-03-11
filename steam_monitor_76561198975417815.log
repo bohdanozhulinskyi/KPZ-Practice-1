@@ -1,0 +1,33 @@
+* Steam polling intervals:	[offline: 2 minutes] [online: 1 minute]
+* Email notifications:		[online/offline status changes = False] [game changes = False]
+*				[all status changes = False] [errors = False]
+* Liveness check:		True (12 hours)
+* CSV logging enabled:		False
+* Output logging enabled:	True (steam_monitor_76561198975417815.log)
+* Configuration file:		None
+* Dotenv file:			None
+
+Monitoring user with Steam64 ID 76561198975417815
+--------------------------------------------------
+
+Display name:			vlastelin
+
+Status:				OFFLINE
+Profile visibility:		public
+Account creation date:		Fri 05 Jul 2019, 11:09:55
+
+* Last time user was available:	Wed 08 Oct 2025, 18:54:09
+
+* User is OFFLINE for:		5 hours, 49 minutes
+
+List of recently played games:
+1 Dota 2
+2 Dying Light
+3 Assassin's Creed Valhalla
+4 DOOM Eternal
+5 Counter-Strike 2
+6 Valheim
+7 PUBG: BATTLEGROUNDS
+
+Timestamp:			Thu, 09 Oct 2025, 00:43:47
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────

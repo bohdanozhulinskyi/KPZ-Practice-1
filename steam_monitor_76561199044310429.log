@@ -1,0 +1,175 @@
+* Steam polling intervals:	[offline: 2 minutes] [online: 1 minute]
+* Email notifications:		[online/offline status changes = False] [game changes = False]
+*				[all status changes = False] [errors = False]
+* Liveness check:		True (12 hours)
+* CSV logging enabled:		False
+* Output logging enabled:	True (steam_monitor_76561199044310429.log)
+* Configuration file:		None
+* Dotenv file:			None
+
+Monitoring user with Steam64 ID 76561199044310429
+--------------------------------------------------
+
+Display name:			Eperum
+
+Status:				ONLINE
+Profile visibility:		public
+Account creation date:		Wed 08 Apr 2020, 00:57:23
+
+List of recently played games:
+1 Dota 2
+2 Counter-Strike 2
+3 Red Dead Redemption 2
+4 Dead Cells
+5 Portal 2
+6 Sid Meier's Civilization VI
+
+Timestamp:			Wed, 08 Oct 2025, 23:41:21
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Steam user Eperum changed status from online to away
+User was online for 34 minutes, 36 seconds (Wed 08 Oct 23:41 - Thu 09 Oct 00:15)
+Timestamp:			Thu, 09 Oct 2025, 00:15:57
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Steam user Eperum changed status from away to online
+User was away for 4 minutes, 4 seconds (Thu 09 Oct 00:15 - 00:20)
+Timestamp:			Thu, 09 Oct 2025, 00:20:01
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+* Steam polling intervals:	[offline: 2 minutes] [online: 1 minute]
+* Email notifications:		[online/offline status changes = False] [game changes = False]
+*				[all status changes = False] [errors = False]
+* Liveness check:		True (12 hours)
+* CSV logging enabled:		False
+* Output logging enabled:	True (steam_monitor_76561199044310429.log)
+* Configuration file:		None
+* Dotenv file:			None
+
+Monitoring user with Steam64 ID 76561199044310429
+--------------------------------------------------
+* Last status loaded from file 'steam_Eperum_last_status.json' (Thu 09 Oct 2025, 00:20:01)
+* Last status read from file: ONLINE (Thu 09 Oct 2025, 00:20:01)
+
+Display name:			Eperum
+
+Status:				ONLINE
+Profile visibility:		public
+Account creation date:		Wed 08 Apr 2020, 00:57:23
+
+* User is ONLINE for:		13 minutes
+
+List of recently played games:
+1 Dota 2
+2 Counter-Strike 2
+3 Red Dead Redemption 2
+4 Dead Cells
+5 Portal 2
+6 Sid Meier's Civilization VI
+
+Timestamp:			Thu, 09 Oct 2025, 00:33:26
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Steam user Eperum changed status from online to offline
+User was online for 14 minutes, 26 seconds (Thu 09 Oct 00:20 - 00:34)
+*** User got OFFLINE ! (after 14 minutes: Thu 09 Oct 00:20 - 00:34)
+Timestamp:			Thu, 09 Oct 2025, 00:34:27
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+* Steam polling intervals:	[offline: 2 minutes] [online: 1 minute]
+* Email notifications:		[online/offline status changes = False] [game changes = False]
+*				[all status changes = False] [errors = False]
+* Liveness check:		True (12 hours)
+* CSV logging enabled:		False
+* Output logging enabled:	True (steam_monitor_76561199044310429.log)
+* Configuration file:		None
+* Dotenv file:			None
+
+Monitoring user with Steam64 ID 76561199044310429
+--------------------------------------------------
+* Last status loaded from file 'steam_Eperum_last_status.json' (Thu 09 Oct 2025, 00:34:27)
+* Last status read from file: OFFLINE (Thu 09 Oct 2025, 00:34:27)
+
+Display name:			Eperum
+
+Status:				OFFLINE
+Profile visibility:		public
+Account creation date:		Wed 08 Apr 2020, 00:57:23
+
+* Last time user was available:	Thu 09 Oct 2025, 00:34:27
+
+* User is OFFLINE for:		7 minutes
+
+List of recently played games:
+1 Dota 2
+2 Counter-Strike 2
+3 Red Dead Redemption 2
+4 Dead Cells
+5 Portal 2
+6 Sid Meier's Civilization VI
+
+Timestamp:			Thu, 09 Oct 2025, 00:42:05
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+* Steam polling intervals:	[offline: 2 minutes] [online: 1 minute]
+* Email notifications:		[online/offline status changes = False] [game changes = False]
+*				[all status changes = False] [errors = False]
+* Liveness check:		True (12 hours)
+* CSV logging enabled:		False
+* Output logging enabled:	True (steam_monitor_76561199044310429.log)
+* Configuration file:		None
+* Dotenv file:			None
+
+Monitoring user with Steam64 ID 76561199044310429
+--------------------------------------------------
+* Last status loaded from file 'steam_Eperum_last_status.json' (Thu 09 Oct 2025, 00:34:27)
+* Last status read from file: OFFLINE (Thu 09 Oct 2025, 00:34:27)
+
+Display name:			Eperum
+
+Status:				OFFLINE
+Profile visibility:		public
+Account creation date:		Wed 08 Apr 2020, 00:57:23
+
+* Last time user was available:	Thu 09 Oct 2025, 00:34:27
+
+* User is OFFLINE for:		11 minutes
+
+List of recently played games:
+1 Dota 2
+2 Counter-Strike 2
+3 Red Dead Redemption 2
+4 Dead Cells
+5 Portal 2
+6 Sid Meier's Civilization VI
+
+Timestamp:			Thu, 09 Oct 2025, 00:45:41
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+* Steam polling intervals:	[offline: 2 minutes] [online: 1 minute]
+* Email notifications:		[online/offline status changes = False] [game changes = False]
+*				[all status changes = False] [errors = False]
+* Liveness check:		True (12 hours)
+* CSV logging enabled:		False
+* Output logging enabled:	True (steam_monitor_76561199044310429.log)
+* Configuration file:		None
+* Dotenv file:			None
+
+Monitoring user with Steam64 ID 76561199044310429
+--------------------------------------------------
+* Last status loaded from file 'steam_Eperum_last_status.json' (Thu 09 Oct 2025, 00:34:27)
+* Last status read from file: OFFLINE (Thu 09 Oct 2025, 00:34:27)
+
+Display name:			Eperum
+
+Status:				OFFLINE
+Profile visibility:		public
+Account creation date:		Wed 08 Apr 2020, 00:57:23
+
+* Last time user was available:	Thu 09 Oct 2025, 00:34:27
+
+* User is OFFLINE for:		13 minutes
+
+List of recently played games:
+1 Dota 2
+2 Counter-Strike 2
+3 Red Dead Redemption 2
+4 Dead Cells
+5 Portal 2
+6 Sid Meier's Civilization VI
+
+Timestamp:			Thu, 09 Oct 2025, 00:47:59
+─────────────────────────────────────────────────────────────────────────────────────────────────────────────────
