@@ -1,0 +1,115 @@
+* Steam polling intervals:	[offline: 2 minutes] [online: 1 minute]
+* Email notifications:		[online/offline status changes = False] [game changes = False]
+*				[all status changes = False] [errors = False]
+* Liveness check:		True (12 hours)
+* CSV logging enabled:		False
+* Output logging enabled:	True (steam_monitor_1084044701.log)
+* Configuration file:		None
+* Dotenv file:			None
+
+Monitoring user with Steam64 ID 1084044701
+-------------------------------------------
+* Error: 400 Client Error: Bad Request for url: https://api.steampowered.com/IPlayerService/GetRecentlyPlayedGames/v1/?key=B0FD43DCA2BB3FA01537286EC4FE6DEF&format=json&steamid=1084044701&count=5
+* Steam polling intervals:	[offline: 2 minutes] [online: 1 minute]
+* Email notifications:		[online/offline status changes = False] [game changes = False]
+*				[all status changes = False] [errors = False]
+* Liveness check:		True (12 hours)
+* CSV logging enabled:		False
+* Output logging enabled:	True (steam_monitor_1084044701.log)
+* Configuration file:		None
+* Dotenv file:			None
+
+Monitoring user with Steam64 ID 1084044701
+-------------------------------------------
+* Error: 400 Client Error: Bad Request for url: https://api.steampowered.com/IPlayerService/GetRecentlyPlayedGames/v1/?key=B0FD43DCA2BB3FA01537286EC4FE6DEF&format=json&steamid=1084044701&count=5
+* Steam polling intervals:	[offline: 2 minutes] [online: 1 minute]
+* Email notifications:		[online/offline status changes = False] [game changes = False]
+*				[all status changes = False] [errors = False]
+* Liveness check:		True (12 hours)
+* CSV logging enabled:		False
+* Output logging enabled:	True (steam_monitor_1084044701.log)
+* Configuration file:		None
+* Dotenv file:			None
+
+Monitoring user with Steam64 ID 1084044701
+-------------------------------------------
+* Error: 400 Client Error: Bad Request for url: https://api.steampowered.com/IPlayerService/GetRecentlyPlayedGames/v1/?key=B0FD43DCA2BB3FA01537286EC4FE6DEF&format=json&steamid=1084044701&count=5
+* Steam polling intervals:	[offline: 2 minutes] [online: 1 minute]
+* Email notifications:		[online/offline status changes = False] [game changes = False]
+*				[all status changes = False] [errors = False]
+* Liveness check:		True (12 hours)
+* CSV logging enabled:		False
+* Output logging enabled:	True (steam_monitor_1084044701.log)
+* Configuration file:		None
+* Dotenv file:			None
+
+Monitoring user with Steam64 ID 1084044701
+-------------------------------------------
+* Steam polling intervals:	[offline: 2 minutes] [online: 1 minute]
+* Email notifications:		[online/offline status changes = False] [game changes = False]
+*				[all status changes = False] [errors = False]
+* Liveness check:		True (12 hours)
+* CSV logging enabled:		False
+* Output logging enabled:	True (steam_monitor_1084044701.log)
+* Configuration file:		None
+* Dotenv file:			None
+
+Monitoring user with Steam64 ID 1084044701
+-------------------------------------------
+* Steam polling intervals:	[offline: 2 minutes] [online: 1 minute]
+* Email notifications:		[online/offline status changes = False] [game changes = False]
+*				[all status changes = False] [errors = False]
+* Liveness check:		True (12 hours)
+* CSV logging enabled:		False
+* Output logging enabled:	True (steam_monitor_1084044701.log)
+* Configuration file:		None
+* Dotenv file:			None
+
+Monitoring user with Steam64 ID 1084044701
+-------------------------------------------
+* Steam polling intervals:	[offline: 2 minutes] [online: 1 minute]
+* Email notifications:		[online/offline status changes = False] [game changes = False]
+*				[all status changes = False] [errors = False]
+* Liveness check:		True (12 hours)
+* CSV logging enabled:		False
+* Output logging enabled:	True (steam_monitor_1084044701.log)
+* Configuration file:		None
+* Dotenv file:			None
+
+Monitoring user with Steam64 ID 1084044701
+-------------------------------------------
+* Steam polling intervals:	[offline: 2 minutes] [online: 1 minute]
+* Email notifications:		[online/offline status changes = False] [game changes = False]
+*				[all status changes = False] [errors = False]
+* Liveness check:		True (12 hours)
+* CSV logging enabled:		False
+* Output logging enabled:	True (steam_monitor_1084044701.log)
+* Configuration file:		None
+* Dotenv file:			None
+
+Monitoring user with Steam64 ID 1084044701
+-------------------------------------------
+* Error: 403 Client Error: Forbidden for url: https://api.steampowered.com/ISteamWebAPIUtil/GetSupportedAPIList/v1/?format=json&key=B0FD43DCA2BB3FA01537286EC4FE6DEF
+* Steam polling intervals:	[offline: 2 minutes] [online: 1 minute]
+* Email notifications:		[online/offline status changes = False] [game changes = False]
+*				[all status changes = False] [errors = False]
+* Liveness check:		True (12 hours)
+* CSV logging enabled:		False
+* Output logging enabled:	True (steam_monitor_1084044701.log)
+* Configuration file:		None
+* Dotenv file:			None
+
+Monitoring user with Steam64 ID 1084044701
+-------------------------------------------
+* Error: 403 Client Error: Forbidden for url: https://api.steampowered.com/ISteamWebAPIUtil/GetSupportedAPIList/v1/?format=json&key=B0FD43DCA2BB3FA01537286EC4FE6DEF
+* Steam polling intervals:	[offline: 2 minutes] [online: 1 minute]
+* Email notifications:		[online/offline status changes = False] [game changes = False]
+*				[all status changes = False] [errors = False]
+* Liveness check:		True (12 hours)
+* CSV logging enabled:		False
+* Output logging enabled:	True (steam_monitor_1084044701.log)
+* Configuration file:		None
+* Dotenv file:			None
+
+Monitoring user with Steam64 ID 1084044701
+-------------------------------------------
