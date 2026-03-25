@@ -1,0 +1,53 @@
+project/
+│
+├── backend/
+│   ├── app/
+│   │   ├── main.py
+│   │   ├── routes/
+│   │   │   ├── users.py
+│   │   │   ├── stats.py
+│   │   │
+│   │   ├── models/
+│   │   │   ├── user.py
+│   │   │   ├── event.py
+│   │   │
+│   │   ├── schemas/
+│   │   │   ├── user_schema.py
+│   │   │   ├── stats_schema.py
+│   │   │
+│   │   ├── services/
+│   │   │   ├── user_service.py
+│   │   │   ├── stats_service.py
+│   │   │
+│   │   ├── db/
+│   │   │   ├── database.py
+│   │   │   ├── init_db.py
+│   │   │
+│   │   └── config.py
+│   │
+│   ├── requirements.txt
+│   └── Dockerfile
+│
+├── frontend/
+│   ├── src/
+│   │   ├── pages/
+│   │   │   ├── Home.jsx
+│   │   │   ├── Dashboard.jsx
+│   │   │
+│   │   ├── components/
+│   │   │   ├── StatsChart.jsx
+│   │   │   ├── UserForm.jsx
+│   │   │
+│   │   ├── api/
+│   │   │   ├── api.js
+│   │   │
+│   │   └── App.jsx
+│   │
+│   ├── package.json
+│   └── Dockerfile
+│
+├── database/
+│   └── init.sql
+│
+├── docker-compose.yml
+└── README.md
